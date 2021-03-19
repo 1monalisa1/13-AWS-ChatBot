@@ -8,3 +8,5 @@
 This one had been quite the adventure - It took 4+ hours of tinkering with the code to finally discover that I had misassigned "firstName" to represent "name" on line 144.  Fortunately, it worked out in the end. :)
 
 ![MonaBot-Gif](https://github.com/1monalisa1/13-AWS-ChatBot/blob/7ec7d5669e77bb91c6cf87baba5ef485862a0006/monabot.gif)
+
+Video Link: https://drive.google.com/file/d/1MG9uECFrl0FlVfT19wAXWv9EQ9aNTgPz/view?usp=sharing
