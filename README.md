@@ -1,1 +1,10 @@
-# 13-AWS-ChatBot
+# Unit 13: AWS • Lambda + Lex
+#### Columbia University • Fu Foundation School of Engineering & Applied Science
+##### Contributor:  Lisa Esberger
+##### Published:  March 18, 2021
+
+## Robo-Advisory Chat Bot
+
+This one had been quite the adventure - It took 4+ hours of tinkering with the code to finally discover that I had misassigned "firstName" to represent "name" on line 144.  Fortunately, it worked out in the end. :)
+
+![MonaBot-Gif](https://github.com/1monalisa1/13-AWS-ChatBot/blob/7ec7d5669e77bb91c6cf87baba5ef485862a0006/monabot.gif)
